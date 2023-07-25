@@ -94,7 +94,7 @@ namespace MakePlacePlugin
 
             Config.PlaceAnywhere = false;
             ClientState.TerritoryChanged -= TerritoryChanged;
-            CommandManager.RemoveHandler("/makeplace");
+            CommandManager.RemoveHandler("/makesmilin");
             Gui?.Dispose();
 
         }
@@ -110,7 +110,7 @@ namespace MakePlacePlugin
 
             Initialize();
 
-            CommandManager.AddHandler("/makeplace", new CommandInfo(CommandHandler)
+            CommandManager.AddHandler("/makesmilin", new CommandInfo(CommandHandler)
             {
                 HelpMessage = "load config window."
             });
