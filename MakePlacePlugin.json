@@ -6,7 +6,7 @@
   "Punchline": "Automatically save & load furniture layouts in your house.",
   "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/mr-smilin/MakePlacePlugin",
+  "RepoUrl": "https://github.com/mr-smilin/MakePlacePlugin-Smilin",
   "Tags": [
     "makeplace",
     "housing",
