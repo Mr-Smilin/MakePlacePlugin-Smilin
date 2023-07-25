@@ -3,7 +3,7 @@
   "Name": "MakePlace Plugin-Smilin",
   "InternalName": "MakePlacePluginSmilin",
   "Description": "Automatically save & load interior and exterior house layouts. Import/export layouts from the MakePlace program.",
-  "RepoUrl": "https://github.com/mr-smilin/MakePlacePlugin",
+  "RepoUrl": "https://github.com/mr-smilin/MakePlacePlugin-Smilin",
   "Tags": [
     "makeplace",
     "housing",
